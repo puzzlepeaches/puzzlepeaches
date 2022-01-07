@@ -1,4 +1,4 @@
-Security Consultant at Sprocket Security
+Penetration Tester at Sprocket Security
 
 ![](https://media3.giphy.com/media/kgwcNMHqvWPLO/200.gif)
 
