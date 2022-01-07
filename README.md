@@ -1,4 +1,6 @@
 Penetration Tester at Sprocket Security
+Hacking and listening to music
+Repos are predominantly automation stuff and bad Python code
 
 ![](https://media3.giphy.com/media/kgwcNMHqvWPLO/200.gif)
 
