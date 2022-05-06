@@ -1,4 +1,4 @@
-Penetration Tester at Sprocket Security
+Director of Operations and hacker at Sprocket Security
 
 ![](https://media3.giphy.com/media/kgwcNMHqvWPLO/200.gif)
 
