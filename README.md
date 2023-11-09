@@ -1,4 +1,4 @@
-Director of Operations and hacker at Sprocket Security
+Director of Technical Operations and hacker at Sprocket Security
 
 ![](https://media3.giphy.com/media/kgwcNMHqvWPLO/200.gif)
 
